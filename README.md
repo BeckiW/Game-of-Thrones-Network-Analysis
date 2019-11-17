@@ -1,4 +1,4 @@
-##Network Analysis of Game of Thrones
+## Network Analysis of Game of Thrones
 
 Can maths tell us who is the most important character in Game of Thrones?
 
